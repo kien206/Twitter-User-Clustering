@@ -1,2 +1,5 @@
 beautifulsoup4==4.12.2
 selenium
+pyspark
+elasticsearch
+pandas

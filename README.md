@@ -11,7 +11,10 @@ Install libraries in requirements.txt
    git clone https://github.com/IT4043E-IT5384-2023/Group7-Problem1
    ```
    
-2. Monitor to test.py file
+2. Monitor to crawler folder
+   ```sh
+   cd crawler
+   ```
 
 3. Replace arguments username, password, email_address to your corresponding Twitter account information.
    ```sh
@@ -29,7 +32,8 @@ Install libraries in requirements.txt
     
 4. Modify the queries (that will be used to search) and other arguments described in class initailizator as needed
     
-5. Run the test.py file
+5. Run the test.py file to crawl the data
     ```sh
     python test.py
     ```
+
